@@ -4,6 +4,10 @@
 
 如果对你有帮助，欢迎点个 Star ⭐
 **最新版本：** [v0.1.0](../../releases/tag/v0.1.0)
+[![CI](https://github.com/zxcfrv/open-source-starter-zh/actions/workflows/ci.yml/badge.svg)](https://github.com/zxcfrv/open-source-starter-zh/actions/workflows/ci.yml)
+[![Release](https://img.shields.io/github/v/release/zxcfrv/open-source-starter-zh)](https://github.com/zxcfrv/open-source-starter-zh/releases)
+[![License](https://img.shields.io/github/license/zxcfrv/open-source-starter-zh)](./LICENSE)
+[![Stars](https://img.shields.io/github/stars/zxcfrv/open-source-starter-zh?style=social)](https://github.com/zxcfrv/open-source-starter-zh/stargazers)
 ## ✨ 你将获得
 - ✅ 专业 README 模板（徽章 / 目录 / 示例 / Roadmap）
 - ✅ LICENSE / CHANGELOG / 安全说明
