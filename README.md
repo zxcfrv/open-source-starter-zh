@@ -3,7 +3,7 @@
 > 一套中文开源项目模板：README、贡献指南、Issue/PR 模板、CI、Release，一键把你的仓库做得专业可协作。
 
 如果对你有帮助，欢迎点个 Star ⭐
-
+**最新版本：** [v0.1.0](../../releases/tag/v0.1.0)
 ## ✨ 你将获得
 - ✅ 专业 README 模板（徽章 / 目录 / 示例 / Roadmap）
 - ✅ LICENSE / CHANGELOG / 安全说明
@@ -34,4 +34,4 @@
 
 ## 📄 License
 MIT
-## 测试
+
